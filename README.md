@@ -1,10 +1,13 @@
 # Tugas Besar IF3110 2024/2025
+## Disclaimer
+Since this was a college task project that was under a private github organization, i couldn't make the fork public hence i copied all the file and that's why it only has one push history.
 
 ## Description
 LinkinPurry is a Single Page web based application, created using Fastify and Typescript for the server-side and Tailwind, React for client-side. This Application is made to fulfill the project requirement of Web Application Development (IF3110) Course. This application utilizes docker for containerization, PostgreSQL for RDBMS.
 
 ## Requirement
 docker
+fastify
 node.js v20
 
 ## How to Install
@@ -23,29 +26,6 @@ docker-compose --env-file ./backend/.env up --build
 ```
 npm run dev
 ```
-6. Open your browser and open url
-
-## Screenshots
-
-## Pembagian Tugas
-
-### Server-side
-Login: 13522101<br>
-Register: 13522101<br>
-Profile: 13522101<br>
-Feed: 13522101<br>
-Connection: 13522080<br>
-Push Notification: 13522080<br>
-Connection: 13522076<br>
-Chat: 13522076<br>
-
-### Client-side
-Login: 13522101<br>
-Register: 13522101<br>
-Profile: 13522101<br>
-Feed: 13522101<br>
-Connection: 13522080<br>
-Push Notification: 13522080<br>
 Connection: 13522076<br>
 Chat: 13522076<br>
 
